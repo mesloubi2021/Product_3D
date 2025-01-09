@@ -159,16 +159,3 @@ Certainly! Here's a step-by-step guide on how to contribute to a project:
 Congratulations! You've successfully contributed to the project. Your changes will now be reviewed by the project maintainers, and they may provide feedback or merge your changes into the main project if they are deemed appropriate
 
 
-## Contributing 🤝
-
-If you'd like to contribute to this project, please fork the repository and submit a pull request. We'd love to hear your ideas for improving this application!
-## :cowboy_hat_face: Project Admin & Mentors
-
-
-<a href="https://github.com/amanjaiman1/Product_3D/graphs/contributors"> 
-    <img src="https://contrib.rocks/image?repo=amanjaiman1/Product_3D" /> 
-</a>
-
-Thank you for using our 3D Product Customization Website!
-
-<p align="right">(<a href="#top">Back to top</a>)</p>
